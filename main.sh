@@ -25,7 +25,7 @@ echo "3.Nethunter"
 echo
 echo "4.Manjaro Os"
 echo
-echo "5.Debain"
+echo "5.Debian"
 echo
 echo "6.Ubuntu<Sutible for beginners>"
 echo
