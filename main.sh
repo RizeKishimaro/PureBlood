@@ -49,7 +49,7 @@ echo
 read -p "user@linuxchoose : " A
 
 if [[ $A == 1 ]];then
-termux-open fb://MinMaySatPatMoLoLinkKoCopyTarLr
+termux-open fb://RizeKishimaro
 elif [[ $A == 2 ]];then
 clear
 figlet Installing Kali
