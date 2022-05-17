@@ -312,6 +312,10 @@ echo
 pkg install wget openssl-tool proot tar -y && hash -r && wget https://raw.githubusercontent.com/EXALAB/AnLinux-Resources/master/Scripts/Installer/openSUSE/Tumbleweed/opensuse-tumbleweed.sh && bash opensuse-tumbleweed.sh
 figlet INSTALLATION FINISHED
 
+else
+echo "Your Input Is Wrong!Please enter true Number!"
+bash main.sh
+
 fi
 
 
